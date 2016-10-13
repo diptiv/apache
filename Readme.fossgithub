@@ -1,1 +1,10 @@
-
+WELCOME TO FOSS GITHUB.......
+The Apache HTTP Server, also called as Apache, is the world's most used web server software.
+Apache played a key role in the initial growth of the World Wide Web,quickly overtaking NCSA HTTPd as the dominant HTTP server.
+In 2009, it became the first web server software to serve more than 100 million websites.
+Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation.
+Most commonly used on a Unix-like system (usually Linux),the software is available for a variety of operating systems besides Unix,
+including Microsoft Windows.
+Version 2.0 improved support for non-Unix, e.g. Windows and OS/2 (and eComStation).
+Old versions of Apache were ported to run on e.g. OpenVMS,[9] and NetWare. 
+Released under the Apache License, Apache is free and open-source software.
